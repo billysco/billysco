@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billysco
 - 👀 I’m interested in innovative data science projects 
 - 🌱 I’m currently improving my machine learning skills/knowledge and learning big data technologies.
-- 💞️ I’m looking to collaborate on anything machine learning or blockchain related.
+- 💞️ I’m looking to collaborate on anything machine learning or sports related.
 - 📫 How to reach me: email me at billyscolinos1@gmail.com
 
 <!---
